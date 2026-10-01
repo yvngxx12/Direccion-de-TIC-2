@@ -1,0 +1,60 @@
+{
+    "patterns": [
+        {
+            "name": "fixed",
+            "keywords": [
+                "fijo",
+                "fija",
+                "quieto",
+                "normal",
+                "estable"
+            ],
+            "emojis": []
+        },
+        {
+            "name": "blink",
+            "keywords": [
+                "parpadeo",
+                "parpadea",
+                "parpadear",
+                "blink"
+            ],
+            "emojis": [
+                "💡"
+            ]
+        },
+        {
+            "name": "breathing",
+            "keywords": [
+                "respiracion",
+                "respiración",
+                "respira",
+                "breathing"
+            ],
+            "emojis": []
+        },
+        {
+            "name": "change",
+            "keywords": [
+                "cambio",
+                "cambiar",
+                "cambia",
+                "colores"
+            ],
+            "emojis": [
+                "🔄"
+            ]
+        },
+        {
+            "name": "rainbow",
+            "keywords": [
+                "arcoiris",
+                "arcoíris",
+                "rainbow"
+            ],
+            "emojis": [
+                "🌈"
+            ]
+        }
+    ]
+}
