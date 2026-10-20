@@ -1,58 +1,126 @@
 {
     "patterns": [
         {
-            "name": "fixed",
+            "name": "agresivo",
+            "label": "Agresivo (Intenso)",
+            "description": "Conversación de alta intensidad, emoción fuerte, hype o debate intenso. Cambios rápidos y marcados.",
+            "defaultColor": "red",
+            "animationStyle": "strobe_pulse",
             "keywords": [
-                "fijo",
-                "fija",
-                "quieto",
-                "normal",
-                "estable"
-            ],
-            "emojis": []
-        },
-        {
-            "name": "blink",
-            "keywords": [
+                "agresivo",
+                "intenso",
+                "fuego",
+                "epico",
+                "épico",
+                "increible",
+                "increíble",
+                "vamos",
+                "vamo",
+                "gol",
+                "gg",
+                "hype",
+                "locura",
+                "bomba",
+                "exploto",
+                "explotó",
+                "alerta",
+                "urgente",
+                "rapido",
+                "rápido",
                 "parpadeo",
-                "parpadea",
-                "parpadear",
-                "blink"
+                "blink",
+                "caos",
+                "wtf",
+                "omg",
+                "nooo",
+                "siii"
             ],
             "emojis": [
+                "🔥",
+                "⚡",
+                "💥",
+                "🚨",
+                "😱",
+                "🤬",
+                "😡",
+                "🚀",
+                "🎉",
                 "💡"
             ]
         },
         {
-            "name": "breathing",
+            "name": "calmo",
+            "label": "Calmo (Suave)",
+            "description": "Conversación tranquila, inicio/fin de transmisión o baja interacción. Animación visual suave (respiración).",
+            "defaultColor": "cyan",
+            "animationStyle": "breathing",
             "keywords": [
+                "calmo",
+                "calma",
+                "tranquilo",
+                "tranquila",
+                "tranqui",
+                "suave",
+                "paz",
+                "relax",
+                "relajado",
+                "lento",
                 "respiracion",
                 "respiración",
-                "respira",
-                "breathing"
-            ],
-            "emojis": []
-        },
-        {
-            "name": "change",
-            "keywords": [
-                "cambio",
-                "cambiar",
-                "cambia",
-                "colores"
+                "breathing",
+                "hola",
+                "buenas",
+                "saludos",
+                "chau",
+                "adios",
+                "adiós",
+                "descanso",
+                "chill",
+                "lofi",
+                "fijo"
             ],
             "emojis": [
-                "🔄"
+                "🌊",
+                "🍃",
+                "✨",
+                "💙",
+                "😌",
+                "🧘",
+                "🌙",
+                "💤",
+                "👋",
+                "🤍"
             ]
         },
         {
-            "name": "rainbow",
+            "name": "neutral",
+            "label": "Neutral (Normal)",
+            "description": "Conversación normal o comportamiento predeterminado cuando no predominan elementos calmos ni agresivos.",
+            "defaultColor": "purple",
+            "animationStyle": "smooth_cycle",
             "keywords": [
+                "neutral",
+                "normal",
+                "estable",
+                "cambio",
+                "colores",
                 "arcoiris",
-                "arcoíris",
-                "rainbow"
+                "rainbow",
+                "ok",
+                "bien",
+                "entiendo",
+                "claro",
+                "pregunta",
+                "como",
+                "cuando",
+                "donde"
             ],
             "emojis": [
+                "👍",
+                "👌",
+                "🙂",
+                "💬",
+                "🔄",
                 "🌈"
             ]
         }

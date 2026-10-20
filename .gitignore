@@ -1,2 +1,4 @@
 .env
 backend/.env
+backend/.oauth-tokens.json
+frontend/node_modules/
